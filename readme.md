@@ -6,8 +6,8 @@
 </p>
 
 ### what languages do i use?
-i use primarily [![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)](https://github.com/mrevandg) ,
-but i also use [![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)](https://github.com/mrevandg) and
-[![JavaScript](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/mrevandg) 
+i use primarily [![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)](https://github.com/mrevandg) in the form of [Node.js](https://img.shields.io/badge/node.js-white?logoColor=green&style=for-the-badge&logo=nodedotjs),
+but i also use [![Typescript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)](https://github.com/mrevandg) and occasionally
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/mrevandg) 
 ### operating system
 [![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows)](https://github.com/mrevandg) and nothing else.
