@@ -9,4 +9,4 @@ i use primarily [![C++](https://img.shields.io/badge/C++-white?style=for-the-bad
 but i also use [![Typescript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)](https://github.com/mrevandg) and occasionally
 [![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/mrevandg) 
 ### operating system
-[![Pop!_OS](https://img.shields.io/badge/Pop%21__OS-white?style=for-the-badge&logo=popos)](https://github.com/mrevandg) and nothing else.
+[![Pop!_OS](https://img.shields.io/badge/Pop%21__OS-white?style=for-the-badge&logo=popos)](https://github.com/mrevandg) primarily; however, i dual boot windows and i have a mac
