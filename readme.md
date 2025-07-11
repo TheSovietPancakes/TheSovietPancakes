@@ -1,6 +1,6 @@
 <h1 align="center">hello</h1>
 <p align="center">
-  <p>quick intro: my name is Ethan and I am farmiliar with C++, front-end and web-development, as well as Node and Deno.</p>
+  <p>quick intro: my name was john this whole time and I am farmiliar with C++, front-end and web-development, as well as Node and Deno.</p>
   <i>if you want to collaborate on something together, i might not be available 24/7 because of school</i> 
 </p>
 
